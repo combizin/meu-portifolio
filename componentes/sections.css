@@ -1,0 +1,59 @@
+#inicio{
+
+    box-shadow: 10px 5px 0px rgb(0,0,0) ;
+    background: #eeeded;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#contato{
+    margin-top: 200px;
+    background: #eeeded;
+    text-align: center;
+    margin-bottom: 100px;
+    box-shadow: 10px 5px 0px rgb(0,0,0) ;  
+    padding: 10px;
+    border-radius: 20px;
+    }
+#sobre{  background: #eeeded;
+    margin-top: 200px;
+    box-shadow: 10px 5px 0px rgb(0,0,0) ;       
+    text-align: center;
+    padding: 10px;
+    border-radius: 20px;
+    }
+#social{
+    margin-top: 200px;
+    background: #edeeee;
+    text-align: center;
+    margin-bottom: 100px;
+    box-shadow: 10px 5px 0px rgb(0,0,0) ;  
+    padding: 10px;
+    border-radius: 20px;
+}
+#avaliacao{
+    margin-top: 200px;
+    background: #eeeded;
+    text-align: center;
+    box-shadow: 10px 5px 0px rgb(0,0,0) ;     
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
+#agenda{
+    margin-top: 200px;
+    background: #eeeded;
+    text-align: center;
+    box-shadow: 10px 5px 0px rgb(0, 0, 0) ;
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
+#rodape{
+    margin-top: 100px;
+    background-color:rgba(124, 18, 224, 0.822) ;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
